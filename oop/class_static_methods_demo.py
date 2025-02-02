@@ -6,4 +6,5 @@ class Calculator:
     
     @classmethod
     def multipy(cls, a, b):
-        return f"{cls.calculation_type}:{a * b}"
+        return a * b
+
