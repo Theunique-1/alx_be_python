@@ -1,3 +1,4 @@
+import calculator
 class Calculator:
     calculation_type = "Arithmetic Operations"
     @staticmethod
