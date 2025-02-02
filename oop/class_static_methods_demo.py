@@ -8,3 +8,6 @@ class Calculator:
     def multiply(cls, a, b):
         return a * b
 
+    print(f"The Sum is: {a + b}"
+    print(F"The Product is: {a * b}"
+
